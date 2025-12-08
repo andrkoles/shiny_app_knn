@@ -6,4 +6,12 @@ The output is a confusion matrix with the predictions of a _k_-NN
 
 model. The _k_-NN model is trained on the `scikit-learn` breast
 
-cancer dataset.
+cancer dataset. To run the app type:
+
+```bash
+(shiny) $ shiny run app.py
+```
+
+Here is a screenshot of the app:
+
+![](screenshots/screenshot.png)
